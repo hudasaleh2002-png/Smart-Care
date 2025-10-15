@@ -1,4 +1,3 @@
 streamlit
-sounddevice
-wavio
+streamlit_mic_recorder
 SpeechRecognition
