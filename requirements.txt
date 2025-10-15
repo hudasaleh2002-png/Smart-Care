@@ -1,3 +1,4 @@
 streamlit
+sounddevice
+wavio
 SpeechRecognition
-pyaudio
